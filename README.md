@@ -9,6 +9,6 @@ npm install
 npm run dev
 ```
 
-Build for production with `npm run build`. The Vite base path is configured for `CalvinOK.github.io`; update `vite.config.ts` if the deployment repository changes.
+Build for production with `npm run build`. This repository is a GitHub user site, so assets are served from the domain root.
 
 The site includes procedural canvas illustrations, an adjustable cellular simulation, an illustrative neural signal experiment, filterable archive entries, and expandable project and experience details. Simulations are explicitly illustrative and do not represent patient recordings or fabricated datasets.
